@@ -2,8 +2,8 @@
 
 Equipe
 
-Bruna Selau Wolmer
-Isabela Vargas Apolonio
+Bruna Selau Wolmer - 
+Isabela Vargas Apolonio - 
 Nicolas Arqueros Ludwig
 
 Introdução
