@@ -38,3 +38,5 @@ O que aprendemos com esse projeto
 - Responsividade e acessibilidade
 - Apresentação profissional do trabalho
 
+
+Agradecemos nosso professor de técnico, Jefferson Tigik, por nos ajudar e guiar por esse projeto! (❁´◡`❁)
