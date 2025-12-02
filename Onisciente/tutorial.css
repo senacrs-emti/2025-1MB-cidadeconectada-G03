@@ -1,0 +1,202 @@
+.tutorial {
+  	width: 100%;
+  	height: 1024px;
+  	position: relative;
+  	background-color: #f0f0f0;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 64px;
+  	color: #000;
+  	font-family: Inter;
+}
+.tutorial-child {
+  	position: absolute;
+  	top: 192px;
+  	left: 103px;
+  	border-radius: 20px;
+  	background-color: #223079;
+  	width: 759px;
+  	height: 621px;
+}
+.image-3-icon {
+  	position: absolute;
+  	top: 210px;
+  	left: 884px;
+  	border-radius: 20px;
+  	width: 435px;
+  	height: 290px;
+  	object-fit: cover;
+}
+.image-2-icon {
+  	position: absolute;
+  	top: 515px;
+  	left: 883px;
+  	border-radius: 20px;
+  	width: 436px;
+  	height: 283px;
+  	object-fit: cover;
+}
+.nunca-andou-de-container {
+  	position: absolute;
+  	top: 229px;
+  	left: 151px;
+  	color: #fff;
+  	text-align: left;
+  	display: inline-block;
+  	width: 681px;
+  	height: 569px;
+}
+.nunca {
+  	font-family: Inter;
+}
+.andou-de-nibus {
+  	font-weight: 500;
+}
+.e-no-quer {
+  	font-weight: 500;
+  	font-family: Inter;
+}
+.temos-a-sua-soluo-siga-esse {
+  	font-size: 32px;
+}
+.comear-agora {
+  	position: absolute;
+  	top: 834.02px;
+  	left: 65px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 584px;
+  	height: 82.1px;
+}
+.arrow-right-icon {
+  	position: absolute;
+  	top: 842px;
+  	left: 622px;
+  	width: 81px;
+  	height: 84px;
+}
+.tutorial-item {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #fff;
+  	width: 1440px;
+  	height: 113px;
+}
+.tutorial-inner {
+  	position: absolute;
+  	top: 35px;
+  	left: 289px;
+  	background-color: #fff;
+  	width: 190px;
+  	height: 46px;
+}
+.sobre-o-site {
+  	position: absolute;
+  	top: 43px;
+  	left: 330px;
+  	font-size: 24px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 137px;
+  	height: 29px;
+}
+.chevron-right-icon {
+  	position: absolute;
+  	top: 46px;
+  	left: 296px;
+  	width: 24px;
+  	height: 24px;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 35px;
+  	left: 43px;
+  	background-color: #fff;
+  	width: 246px;
+  	height: 46px;
+}
+.traar-uma-rota {
+  	position: absolute;
+  	top: 42px;
+  	left: 76px;
+  	font-size: 24px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 203px;
+  	height: 29px;
+}
+.vector-icon {
+  	position: absolute;
+  	height: 1.17%;
+  	width: 0.42%;
+  	top: 4.98%;
+  	right: 95.42%;
+  	bottom: 93.85%;
+  	left: 4.17%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.tutorial-child2 {
+  	position: absolute;
+  	top: 24.53px;
+  	left: 1321.11px;
+  	background-color: #00c257;
+  	width: 58.1px;
+  	height: 7.3px;
+}
+.tutorial-child3 {
+  	position: absolute;
+  	top: 31.84px;
+  	left: 1321.11px;
+  	background-color: #ff0000;
+  	width: 67.1px;
+  	height: 7.3px;
+}
+.tutorial-child4 {
+  	position: absolute;
+  	top: 39.16px;
+  	left: 1321.11px;
+  	background-color: #fff700;
+  	width: 76.2px;
+  	height: 7.3px;
+}
+.tutorial-child5 {
+  	position: absolute;
+  	top: 46.48px;
+  	left: 1321.11px;
+  	background-color: #0053cf;
+  	width: 84.8px;
+  	height: 7.3px;
+}
+.image-removebg-preview-1-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 1223px;
+  	width: 111px;
+  	height: 74.9px;
+  	object-fit: cover;
+}
+.oni {
+  	position: absolute;
+  	top: 54px;
+  	left: 1140px;
+  	font-size: 40px;
+  	font-family: Coolvetica;
+  	color: #ea0000;
+  	display: inline-block;
+  	width: 227px;
+  	height: 60px;
+}
+.sciente {
+  	position: absolute;
+  	top: 54px;
+  	left: 1264px;
+  	font-size: 40px;
+  	font-family: Coolvetica;
+  	display: inline-block;
+  	width: 153px;
+  	height: 60px;
+}
+
