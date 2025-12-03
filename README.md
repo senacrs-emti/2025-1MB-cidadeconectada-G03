@@ -12,7 +12,7 @@ O site Onisciente é uma aplicação voltada à usuários de transporte público
 
 Tecnologias Utilizadas
 
-HTML - CSS - Javascript
+HTML - CSS 
 
 Ferramentas
 
