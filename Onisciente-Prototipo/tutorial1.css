@@ -1,12 +1,12 @@
 .tutorial1 {
   	width: 100%;
-  	height: 1024px;
+  	height: 832px;
   	position: relative;
   	background-color: #f0f0f0;
   	overflow: hidden;
   	text-align: center;
   	font-size: 24px;
-  	color: #000;
+  	color: #fff;
   	font-family: Coolvetica;
 }
 .tutorial1-child {
@@ -14,199 +14,155 @@
   	top: 0px;
   	left: 0px;
   	background-color: #fff;
-  	width: 1440px;
-  	height: 113px;
+  	width: 1280px;
+  	height: 100px;
 }
 .tutorial1-item {
   	position: absolute;
-  	top: 35px;
-  	left: 289px;
+  	top: 31px;
+  	left: 41px;
   	background-color: #fff;
-  	width: 190px;
-  	height: 46px;
-}
-.sobre-o-site {
-  	position: absolute;
-  	top: 43px;
-  	left: 330px;
-  	font-weight: 500;
-  	font-family: Inter;
-  	display: inline-block;
-  	width: 137px;
-  	height: 29px;
-}
-.chevron-right-icon {
-  	position: absolute;
-  	top: 46px;
-  	left: 296px;
-  	width: 24px;
-  	height: 24px;
+  	width: 231px;
+  	height: 41px;
 }
 .tutorial1-inner {
   	position: absolute;
-  	top: 35px;
-  	left: 43px;
+  	top: 31px;
+  	left: 287px;
   	background-color: #fff;
-  	width: 246px;
-  	height: 46px;
+  	width: 178px;
+  	height: 41px;
+}
+.sobre-o-site {
+  	position: absolute;
+  	top: 37px;
+  	left: 310px;
+  	font-weight: 500;
+  	font-family: Inter;
+  	color: #000;
+  	display: inline-block;
+  	width: 148.4px;
+  	height: 25.7px;
 }
 .traar-uma-rota {
   	position: absolute;
-  	top: 42px;
-  	left: 76px;
+  	top: 37.43px;
+  	left: 52.21px;
   	font-weight: 500;
   	font-family: Inter;
+  	color: #000;
   	display: inline-block;
-  	width: 203px;
-  	height: 29px;
+  	width: 219.9px;
+  	height: 25.7px;
 }
 .vector-icon {
   	position: absolute;
-  	height: 1.17%;
-  	width: 0.42%;
-  	top: 4.98%;
-  	right: 95.42%;
-  	bottom: 93.85%;
-  	left: 4.17%;
+  	height: 1.56%;
+  	width: 0.55%;
+  	top: 5.29%;
+  	right: 95.31%;
+  	bottom: 93.15%;
+  	left: 4.14%;
   	max-width: 100%;
   	overflow: hidden;
   	max-height: 100%;
 }
-.rectangle-div {
+.vector-icon2 {
   	position: absolute;
-  	top: 219px;
-  	left: 622px;
-  	border-radius: 20px;
-  	background-color: #223079;
-  	width: 726px;
-  	height: 491px;
+  	height: 1.56%;
+  	width: 0.55%;
+  	top: 5.29%;
+  	right: 76.09%;
+  	bottom: 93.15%;
+  	left: 23.36%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
 }
-.image-5-icon {
+.group-53-1 {
   	position: absolute;
-  	top: 231px;
-  	left: 106px;
-  	border-radius: 20px;
-  	width: 425px;
-  	height: 661px;
+  	top: 11px;
+  	left: 1064px;
+  	width: 199px;
+  	height: 78px;
   	object-fit: cover;
 }
 .passo-traar-sua {
   	position: absolute;
-  	top: 279px;
-  	left: 635px;
+  	top: 211px;
+  	left: 580px;
   	font-size: 50px;
-  	color: #fff;
   	display: inline-block;
-  	width: 697px;
+  	width: 633px;
+  	height: 55px;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 156px;
+  	left: 565px;
+  	border-radius: 20px;
+  	background-color: #223079;
+  	width: 659px;
+  	height: 446px;
+}
+.image-5-icon {
+  	position: absolute;
+  	top: 170px;
+  	left: 108px;
+  	border-radius: 20px;
+  	width: 386px;
+  	height: 601px;
+  	object-fit: cover;
 }
 .use-a-nossa {
   	position: absolute;
-  	top: 374px;
-  	left: 688px;
+  	top: 299px;
+  	left: 628px;
   	font-size: 32px;
-  	color: #fff;
   	display: inline-block;
-  	width: 601px;
-  	height: 224px;
+  	width: 546px;
+  	height: 204px;
 }
 .tutorial1-child2 {
   	position: absolute;
-  	top: 764px;
-  	left: 709px;
+  	top: 625px;
+  	left: 652px;
   	box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.4);
   	border-radius: 20px;
   	background-color: #6375cf;
   	border: 3px solid #fff;
   	box-sizing: border-box;
-  	width: 534px;
-  	height: 128px;
+  	width: 485px;
+  	height: 116px;
 }
 .prximo-passo {
   	position: absolute;
-  	top: 793px;
-  	left: 737px;
+  	top: 651px;
+  	left: 678px;
   	font-size: 58px;
-  	color: #fff;
   	display: inline-block;
-  	width: 467px;
+  	width: 424px;
+  	height: 64px;
 }
 .voltar {
   	position: absolute;
-  	top: 898px;
-  	left: 920px;
+  	top: 748px;
+  	left: 844px;
   	font-size: 20px;
   	font-weight: 600;
   	font-family: Inter;
+  	color: #000;
   	display: inline-block;
-  	width: 102px;
-  	height: 31px;
+  	width: 93px;
+  	height: 28px;
 }
-.line-div {
+.passo-pagamento {
   	position: absolute;
-  	top: 918.5px;
-  	left: 934.5px;
-  	border-top: 1px solid #000;
-  	box-sizing: border-box;
-  	width: 75px;
-  	height: 1px;
-}
-.tutorial1-child3 {
-  	position: absolute;
-  	top: 24.53px;
-  	left: 1321.11px;
-  	background-color: #00c257;
-  	width: 58.1px;
-  	height: 7.3px;
-}
-.tutorial1-child4 {
-  	position: absolute;
-  	top: 31.84px;
-  	left: 1321.11px;
-  	background-color: #ff0000;
-  	width: 67.1px;
-  	height: 7.3px;
-}
-.tutorial1-child5 {
-  	position: absolute;
-  	top: 39.16px;
-  	left: 1321.11px;
-  	background-color: #fff700;
-  	width: 76.2px;
-  	height: 7.3px;
-}
-.tutorial1-child6 {
-  	position: absolute;
-  	top: 46.48px;
-  	left: 1321.11px;
-  	background-color: #0053cf;
-  	width: 84.8px;
-  	height: 7.3px;
-}
-.image-removebg-preview-1-icon {
-  	position: absolute;
-  	top: 0px;
-  	left: 1223px;
-  	width: 111px;
-  	height: 74.9px;
-  	object-fit: cover;
-}
-.oni {
-  	position: absolute;
-  	top: 54px;
-  	left: 1140px;
-  	font-size: 40px;
-  	color: #ea0000;
+  	top: 212px;
+  	left: 594px;
+  	font-size: 50px;
   	display: inline-block;
-  	width: 227px;
-  	height: 60px;
-}
-.sciente {
-  	position: absolute;
-  	top: 54px;
-  	left: 1264px;
-  	font-size: 40px;
-  	display: inline-block;
-  	width: 153px;
-  	height: 60px;
+  	width: 627px;
+  	height: 93px;
 }
 

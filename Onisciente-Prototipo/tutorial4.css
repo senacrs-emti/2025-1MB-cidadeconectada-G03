@@ -1,6 +1,6 @@
 .tutorial4 {
   	width: 100%;
-  	height: 1024px;
+  	height: 832px;
   	position: relative;
   	background-color: #f0f0f0;
   	overflow: hidden;
@@ -9,229 +9,164 @@
   	color: #fff;
   	font-family: Inter;
 }
-.image-8-icon {
-  	position: absolute;
-  	top: 117px;
-  	left: 0px;
-  	width: 1453px;
-  	height: 940px;
-  	object-fit: cover;
-  	flex-shrink: 0;
-}
 .tutorial4-child {
   	position: absolute;
-  	top: 3px;
-  	left: 1px;
+  	top: 0px;
+  	left: 0px;
   	background-color: #fff;
-  	width: 1451px;
-  	height: 114px;
+  	width: 1280px;
+  	height: 100px;
   	flex-shrink: 0;
 }
 .tutorial4-item {
   	position: absolute;
-  	top: 38px;
-  	left: 292px;
+  	top: 31px;
+  	left: 41px;
   	background-color: #fff;
-  	width: 192px;
-  	height: 46px;
-  	flex-shrink: 0;
-}
-.sobre-o-site {
-  	position: absolute;
-  	top: 46px;
-  	left: 334px;
-  	font-weight: 500;
-  	color: #000;
-  	display: inline-block;
-  	width: 138px;
-  	height: 30px;
-  	flex-shrink: 0;
-}
-.chevron-right-icon {
-  	position: absolute;
-  	top: 49px;
-  	left: 299px;
-  	width: 25px;
-  	height: 25px;
+  	width: 231px;
+  	height: 41px;
   	flex-shrink: 0;
 }
 .tutorial4-inner {
   	position: absolute;
-  	top: 38px;
-  	left: 44px;
+  	top: 31px;
+  	left: 287px;
   	background-color: #fff;
-  	width: 248px;
-  	height: 46px;
+  	width: 178px;
+  	height: 41px;
+  	flex-shrink: 0;
+}
+.sobre-o-site {
+  	position: absolute;
+  	top: 37px;
+  	left: 310px;
+  	font-weight: 500;
+  	color: #000;
+  	display: inline-block;
+  	width: 148.4px;
+  	height: 25.7px;
   	flex-shrink: 0;
 }
 .traar-uma-rota {
   	position: absolute;
-  	top: 45px;
-  	left: 78px;
+  	top: 37.43px;
+  	left: 52.21px;
   	font-weight: 500;
   	color: #000;
   	display: inline-block;
-  	width: 205px;
-  	height: 30px;
+  	width: 219.9px;
+  	height: 25.7px;
   	flex-shrink: 0;
 }
 .vector-icon {
   	position: absolute;
-  	height: 1.27%;
-  	width: 0.42%;
-  	top: 5.27%;
-  	right: 95.28%;
-  	bottom: 93.46%;
-  	left: 4.31%;
+  	height: 1.56%;
+  	width: 0.55%;
+  	top: 5.29%;
+  	right: 95.31%;
+  	bottom: 93.15%;
+  	left: 4.14%;
   	max-width: 100%;
   	overflow: hidden;
   	max-height: 100%;
   	flex-shrink: 0;
 }
+.vector-icon2 {
+  	position: absolute;
+  	height: 1.56%;
+  	width: 0.55%;
+  	top: 5.29%;
+  	right: 76.09%;
+  	bottom: 93.15%;
+  	left: 23.36%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+  	flex-shrink: 0;
+}
+.group-53-1 {
+  	position: absolute;
+  	top: 11px;
+  	left: 1064px;
+  	width: 199px;
+  	height: 78px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.image-8-icon {
+  	position: absolute;
+  	top: 100px;
+  	left: -3px;
+  	width: 1286px;
+  	height: 832px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
 .rectangle-div {
   	position: absolute;
-  	top: 233px;
-  	left: 361px;
+  	top: 166px;
+  	left: 264px;
   	border-radius: 20px;
   	background-color: rgba(34, 48, 121, 0.9);
-  	width: 731px;
-  	height: 594px;
+  	width: 751px;
+  	height: 561px;
   	flex-shrink: 0;
 }
 .voltar {
   	position: absolute;
-  	top: 784px;
-  	left: 675px;
+  	top: 684px;
+  	left: 592px;
   	font-size: 20px;
   	font-weight: 600;
   	display: inline-block;
-  	width: 103px;
-  	height: 31px;
-  	flex-shrink: 0;
-}
-.line-div {
-  	position: absolute;
-  	top: 804.5px;
-  	left: 690.5px;
-  	border-top: 1px solid #fff;
-  	box-sizing: border-box;
-  	width: 75px;
-  	height: 1px;
+  	width: 92px;
+  	height: 28px;
   	flex-shrink: 0;
 }
 .passo-dentro-do {
   	position: absolute;
-  	top: 309px;
-  	left: 379px;
+  	top: 215px;
+  	left: 332px;
   	font-size: 50px;
   	font-family: Coolvetica;
   	display: inline-block;
-  	width: 695px;
-  	height: 104px;
+  	width: 615px;
+  	height: 92px;
   	flex-shrink: 0;
 }
 .j-tendo-pago {
   	position: absolute;
-  	top: 382px;
-  	left: 400px;
+  	top: 291px;
+  	left: 314px;
   	font-size: 32px;
   	font-family: Coolvetica;
   	display: inline-block;
-  	width: 653px;
-  	height: 272px;
+  	width: 648px;
+  	height: 241px;
   	flex-shrink: 0;
 }
 .tutorial4-child2 {
   	position: absolute;
-  	top: 654px;
-  	left: 457px;
+  	top: 558px;
+  	left: 398px;
   	box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.4);
   	border-radius: 20px;
   	background-color: #6375cf;
   	border: 3px solid #fff;
   	box-sizing: border-box;
-  	width: 539px;
-  	height: 130px;
+  	width: 477px;
+  	height: 115px;
   	flex-shrink: 0;
 }
 .prximo-passo {
   	position: absolute;
-  	top: 684px;
-  	left: 486px;
+  	top: 585px;
+  	left: 424px;
   	font-size: 58px;
   	font-weight: 600;
   	display: inline-block;
-  	width: 471px;
-  	height: 71px;
-  	flex-shrink: 0;
-}
-.tutorial4-child3 {
-  	position: absolute;
-  	top: 24.53px;
-  	left: 1321.11px;
-  	background-color: #00c257;
-  	width: 58.1px;
-  	height: 7.3px;
-  	flex-shrink: 0;
-}
-.tutorial4-child4 {
-  	position: absolute;
-  	top: 31.84px;
-  	left: 1321.11px;
-  	background-color: #ff0000;
-  	width: 67.1px;
-  	height: 7.3px;
-  	flex-shrink: 0;
-}
-.tutorial4-child5 {
-  	position: absolute;
-  	top: 39.16px;
-  	left: 1321.11px;
-  	background-color: #fff700;
-  	width: 76.2px;
-  	height: 7.3px;
-  	flex-shrink: 0;
-}
-.tutorial4-child6 {
-  	position: absolute;
-  	top: 46.48px;
-  	left: 1321.11px;
-  	background-color: #0053cf;
-  	width: 84.8px;
-  	height: 7.3px;
-  	flex-shrink: 0;
-}
-.image-removebg-preview-1-icon {
-  	position: absolute;
-  	top: 0px;
-  	left: 1223px;
-  	width: 111px;
-  	height: 74.9px;
-  	object-fit: cover;
-  	flex-shrink: 0;
-}
-.oni {
-  	position: absolute;
-  	top: 54px;
-  	left: 1140px;
-  	font-size: 40px;
-  	font-family: Coolvetica;
-  	color: #ea0000;
-  	display: inline-block;
-  	width: 227px;
-  	height: 60px;
-  	flex-shrink: 0;
-}
-.sciente {
-  	position: absolute;
-  	top: 54px;
-  	left: 1264px;
-  	font-size: 40px;
-  	font-family: Coolvetica;
-  	color: #000;
-  	display: inline-block;
-  	width: 153px;
-  	height: 60px;
+  	width: 414px;
+  	height: 62px;
   	flex-shrink: 0;
 }
 

@@ -1,6 +1,6 @@
 .rotas2 {
   	width: 100%;
-  	height: 1024px;
+  	height: 832px;
   	position: relative;
   	background-color: #f0f0f0;
   	overflow: hidden;
@@ -11,143 +11,143 @@
 }
 .rotas {
   	position: absolute;
-  	top: 177px;
-  	left: 326px;
-  	font-size: 96px;
+  	top: 176px;
+  	left: 101.78px;
+  	font-size: 64px;
   	display: inline-block;
-  	width: 279px;
-  	height: 76px;
+  	width: 248px;
+  	height: 67.6px;
 }
 .rotas2-child {
   	position: absolute;
-  	top: 312px;
-  	left: 146px;
+  	top: 257px;
+  	left: 81px;
   	border-radius: 40px;
   	background-color: #fff;
   	border: 10px solid #fff;
   	box-sizing: border-box;
-  	width: 643px;
-  	height: 160px;
+  	width: 636px;
+  	height: 143px;
 }
 .rotas2-item {
   	position: absolute;
-  	top: 391.5px;
-  	left: 228.5px;
+  	top: 327.72px;
+  	left: 162.6px;
   	border-top: 5px solid #dadada;
   	box-sizing: border-box;
-  	width: 555px;
+  	width: 548.8px;
   	height: 5px;
   	transform:  rotate(-0.2deg);
   	transform-origin: 0 0;
 }
 .rotas2-inner {
   	position: absolute;
-  	top: 421px;
-  	left: 184px;
+  	top: 354px;
+  	left: 119px;
   	background-color: #bcbcbc;
   	border: 6px solid #000;
   	box-sizing: border-box;
-  	width: 18px;
-  	height: 18px;
+  	width: 17px;
+  	height: 17px;
 }
 .ellipse-div {
   	position: absolute;
-  	top: 346px;
-  	left: 184px;
+  	top: 287px;
+  	left: 119px;
   	border-radius: 50%;
   	background-color: #bcbcbc;
   	border: 6px solid #000;
   	box-sizing: border-box;
-  	width: 18px;
-  	height: 18px;
+  	width: 17px;
+  	height: 17px;
 }
 .line-div {
   	position: absolute;
-  	top: 365.5px;
-  	left: 193px;
+  	top: 304.5px;
+  	left: 127.5px;
   	background-color: #d2d2d2;
   	border-right: 5px solid #000;
   	box-sizing: border-box;
   	width: 5px;
-  	height: 54px;
+  	height: 49px;
 }
 .av-da-cavalhada {
   	position: absolute;
-  	top: 343px;
-  	left: 246px;
+  	top: 285px;
+  	left: 180px;
   	display: inline-block;
   	color: #737373;
   	text-align: left;
-  	width: 535px;
-  	height: 29px;
+  	width: 529px;
+  	height: 26px;
 }
 .av-quara-451 {
   	position: absolute;
-  	top: 410px;
-  	left: 246px;
+  	top: 344px;
+  	left: 180px;
   	display: inline-block;
   	color: #737373;
   	text-align: left;
-  	width: 535px;
-  	height: 29px;
+  	width: 529px;
+  	height: 26px;
 }
 .image-5-icon {
   	position: absolute;
-  	top: 606px;
-  	left: 97px;
+  	top: 511.67px;
+  	left: 89px;
   	border-radius: 20px;
-  	width: 290px;
-  	height: 290px;
+  	width: 257.8px;
+  	height: 257.8px;
   	object-fit: cover;
 }
 .local-de-partida {
   	position: absolute;
-  	top: 556px;
-  	left: 145px;
+  	top: 438px;
+  	left: 131.78px;
   	display: inline-block;
-  	width: 194px;
-  	height: 29px;
+  	width: 172.4px;
+  	height: 25.8px;
 }
 .image-6-icon {
   	position: absolute;
-  	top: 606px;
-  	left: 512px;
+  	top: 511.67px;
+  	left: 457.89px;
   	border-radius: 20px;
-  	width: 290px;
-  	height: 290px;
+  	width: 257.8px;
+  	height: 257.8px;
   	object-fit: cover;
 }
 .local-de-chegada {
   	position: absolute;
-  	top: 556px;
-  	left: 551px;
+  	top: 438px;
+  	left: 492.78px;
   	display: inline-block;
-  	width: 212px;
-  	height: 29px;
+  	width: 188.4px;
+  	height: 25.8px;
 }
 .image-4-icon {
   	position: absolute;
-  	top: 263px;
-  	left: 927px;
+  	top: 181.78px;
+  	left: 827px;
   	border-radius: 20px;
-  	width: 425px;
-  	height: 661px;
+  	width: 377.8px;
+  	height: 587.6px;
   	object-fit: cover;
 }
 .trajeto-completo {
   	position: absolute;
-  	top: 215px;
-  	left: 1034px;
+  	top: 132px;
+  	left: 883px;
   	display: inline-block;
-  	width: 212px;
-  	height: 29px;
+  	width: 266px;
+  	height: 26px;
 }
 .arrow-right-icon {
   	position: absolute;
-  	top: 189px;
-  	left: 226px;
-  	width: 81px;
-  	height: 84px;
+  	top: 193.67px;
+  	left: 89px;
+  	width: 37px;
+  	height: 39px;
   	object-fit: contain;
 }
 .rectangle-div {
@@ -155,126 +155,73 @@
   	top: 0px;
   	left: 0px;
   	background-color: #fff;
-  	width: 1440px;
-  	height: 113px;
+  	width: 1280px;
+  	height: 100px;
 }
 .rotas2-child2 {
   	position: absolute;
-  	top: 35px;
-  	left: 46px;
+  	top: 31px;
+  	left: 41px;
   	background-color: #fff;
-  	width: 246px;
-  	height: 46px;
-}
-.comear-o-tutorial {
-  	position: absolute;
-  	top: 42px;
-  	left: 62px;
-  	font-weight: 500;
-  	display: inline-block;
-  	width: 234px;
-  	height: 29px;
+  	width: 255px;
+  	height: 41px;
 }
 .rotas2-child3 {
   	position: absolute;
-  	top: 35px;
-  	left: 317px;
+  	top: 31px;
+  	left: 315px;
   	background-color: #fff;
-  	width: 190px;
-  	height: 46px;
+  	width: 189px;
+  	height: 41px;
+}
+.comear-o-tutorial {
+  	position: absolute;
+  	top: 37px;
+  	left: 50px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 253.5px;
+  	height: 25.7px;
 }
 .sobre-o-site {
   	position: absolute;
-  	top: 43px;
-  	left: 358px;
+  	top: 37px;
+  	left: 338px;
   	font-weight: 500;
   	display: inline-block;
-  	width: 137px;
-  	height: 29px;
+  	width: 148.4px;
+  	height: 25.7px;
 }
 .vector-icon {
   	position: absolute;
-  	height: 1.17%;
-  	width: 0.42%;
-  	top: 5.08%;
-  	right: 76.46%;
-  	bottom: 93.75%;
-  	left: 23.13%;
+  	height: 1.56%;
+  	width: 0.55%;
+  	top: 5.29%;
+  	right: 95.31%;
+  	bottom: 93.15%;
+  	left: 4.14%;
   	max-width: 100%;
   	overflow: hidden;
   	max-height: 100%;
-}
-.rotas2-child4 {
-  	position: absolute;
-  	top: 24.53px;
-  	left: 1321.11px;
-  	background-color: #00c257;
-  	width: 58.1px;
-  	height: 7.3px;
-}
-.rotas2-child5 {
-  	position: absolute;
-  	top: 31.84px;
-  	left: 1321.11px;
-  	background-color: #ff0000;
-  	width: 67.1px;
-  	height: 7.3px;
-}
-.rotas2-child6 {
-  	position: absolute;
-  	top: 39.16px;
-  	left: 1321.11px;
-  	background-color: #fff700;
-  	width: 76.2px;
-  	height: 7.3px;
-}
-.rotas2-child7 {
-  	position: absolute;
-  	top: 46.48px;
-  	left: 1321.11px;
-  	background-color: #0053cf;
-  	width: 84.8px;
-  	height: 7.3px;
-}
-.image-removebg-preview-1-icon {
-  	position: absolute;
-  	top: 0px;
-  	left: 1223px;
-  	width: 111px;
-  	height: 74.9px;
-  	object-fit: cover;
 }
 .vector-icon2 {
   	position: absolute;
-  	height: 1.17%;
-  	width: 0.42%;
-  	top: 4.98%;
-  	right: 95.97%;
-  	bottom: 93.85%;
-  	left: 3.61%;
+  	height: 1.56%;
+  	width: 0.55%;
+  	top: 5.29%;
+  	right: 73.91%;
+  	bottom: 93.15%;
+  	left: 25.55%;
   	max-width: 100%;
   	overflow: hidden;
   	max-height: 100%;
 }
-.oni {
+.group-53-1 {
   	position: absolute;
-  	top: 54px;
-  	left: 1140px;
-  	font-size: 40px;
-  	font-family: Coolvetica;
-  	color: #ea0000;
-  	display: inline-block;
-  	width: 227px;
-  	height: 60px;
-}
-.sciente {
-  	position: absolute;
-  	top: 54px;
-  	left: 1264px;
-  	font-size: 40px;
-  	font-family: Coolvetica;
-  	display: inline-block;
-  	width: 153px;
-  	height: 60px;
+  	top: 11px;
+  	left: 1064px;
+  	width: 199px;
+  	height: 78px;
+  	object-fit: cover;
 }
 

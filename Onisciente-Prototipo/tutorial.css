@@ -1,202 +1,148 @@
 .tutorial {
   	width: 100%;
-  	height: 1024px;
+  	height: 832px;
   	position: relative;
   	background-color: #f0f0f0;
   	overflow: hidden;
   	text-align: center;
-  	font-size: 64px;
+  	font-size: 24px;
   	color: #000;
   	font-family: Inter;
 }
 .tutorial-child {
   	position: absolute;
-  	top: 192px;
-  	left: 103px;
-  	border-radius: 20px;
-  	background-color: #223079;
-  	width: 759px;
-  	height: 621px;
-}
-.image-3-icon {
-  	position: absolute;
-  	top: 210px;
-  	left: 884px;
-  	border-radius: 20px;
-  	width: 435px;
-  	height: 290px;
-  	object-fit: cover;
-}
-.image-2-icon {
-  	position: absolute;
-  	top: 515px;
-  	left: 883px;
-  	border-radius: 20px;
-  	width: 436px;
-  	height: 283px;
-  	object-fit: cover;
-}
-.nunca-andou-de-container {
-  	position: absolute;
-  	top: 229px;
-  	left: 151px;
-  	color: #fff;
-  	text-align: left;
-  	display: inline-block;
-  	width: 681px;
-  	height: 569px;
-}
-.nunca {
-  	font-family: Inter;
-}
-.andou-de-nibus {
-  	font-weight: 500;
-}
-.e-no-quer {
-  	font-weight: 500;
-  	font-family: Inter;
-}
-.temos-a-sua-soluo-siga-esse {
-  	font-size: 32px;
-}
-.comear-agora {
-  	position: absolute;
-  	top: 834.02px;
-  	left: 65px;
-  	font-weight: 500;
-  	display: inline-block;
-  	width: 584px;
-  	height: 82.1px;
-}
-.arrow-right-icon {
-  	position: absolute;
-  	top: 842px;
-  	left: 622px;
-  	width: 81px;
-  	height: 84px;
-}
-.tutorial-item {
-  	position: absolute;
   	top: 0px;
   	left: 0px;
   	background-color: #fff;
-  	width: 1440px;
-  	height: 113px;
+  	width: 1280px;
+  	height: 100px;
+}
+.tutorial-item {
+  	position: absolute;
+  	top: 31px;
+  	left: 41px;
+  	background-color: #fff;
+  	width: 231px;
+  	height: 41px;
 }
 .tutorial-inner {
   	position: absolute;
-  	top: 35px;
-  	left: 289px;
+  	top: 31px;
+  	left: 287px;
   	background-color: #fff;
-  	width: 190px;
-  	height: 46px;
+  	width: 178px;
+  	height: 41px;
 }
 .sobre-o-site {
   	position: absolute;
-  	top: 43px;
-  	left: 330px;
-  	font-size: 24px;
+  	top: 37px;
+  	left: 310px;
   	font-weight: 500;
   	display: inline-block;
-  	width: 137px;
-  	height: 29px;
-}
-.chevron-right-icon {
-  	position: absolute;
-  	top: 46px;
-  	left: 296px;
-  	width: 24px;
-  	height: 24px;
-}
-.rectangle-div {
-  	position: absolute;
-  	top: 35px;
-  	left: 43px;
-  	background-color: #fff;
-  	width: 246px;
-  	height: 46px;
+  	width: 148.4px;
+  	height: 25.7px;
 }
 .traar-uma-rota {
   	position: absolute;
-  	top: 42px;
-  	left: 76px;
-  	font-size: 24px;
+  	top: 37.43px;
+  	left: 52.21px;
   	font-weight: 500;
   	display: inline-block;
-  	width: 203px;
-  	height: 29px;
+  	width: 219.9px;
+  	height: 25.7px;
 }
 .vector-icon {
   	position: absolute;
-  	height: 1.17%;
-  	width: 0.42%;
-  	top: 4.98%;
-  	right: 95.42%;
-  	bottom: 93.85%;
-  	left: 4.17%;
+  	height: 1.56%;
+  	width: 0.55%;
+  	top: 5.29%;
+  	right: 95.31%;
+  	bottom: 93.15%;
+  	left: 4.14%;
   	max-width: 100%;
   	overflow: hidden;
   	max-height: 100%;
 }
-.tutorial-child2 {
+.vector-icon2 {
   	position: absolute;
-  	top: 24.53px;
-  	left: 1321.11px;
-  	background-color: #00c257;
-  	width: 58.1px;
-  	height: 7.3px;
+  	height: 1.56%;
+  	width: 0.55%;
+  	top: 5.29%;
+  	right: 76.09%;
+  	bottom: 93.15%;
+  	left: 23.36%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
 }
-.tutorial-child3 {
+.group-53-1 {
   	position: absolute;
-  	top: 31.84px;
-  	left: 1321.11px;
-  	background-color: #ff0000;
-  	width: 67.1px;
-  	height: 7.3px;
-}
-.tutorial-child4 {
-  	position: absolute;
-  	top: 39.16px;
-  	left: 1321.11px;
-  	background-color: #fff700;
-  	width: 76.2px;
-  	height: 7.3px;
-}
-.tutorial-child5 {
-  	position: absolute;
-  	top: 46.48px;
-  	left: 1321.11px;
-  	background-color: #0053cf;
-  	width: 84.8px;
-  	height: 7.3px;
-}
-.image-removebg-preview-1-icon {
-  	position: absolute;
-  	top: 0px;
-  	left: 1223px;
-  	width: 111px;
-  	height: 74.9px;
+  	top: 11px;
+  	left: 1064px;
+  	width: 199px;
+  	height: 78px;
   	object-fit: cover;
 }
-.oni {
+.image-3-icon {
   	position: absolute;
-  	top: 54px;
-  	left: 1140px;
-  	font-size: 40px;
-  	font-family: Coolvetica;
-  	color: #ea0000;
-  	display: inline-block;
-  	width: 227px;
-  	height: 60px;
+  	top: 132px;
+  	left: 800px;
+  	border-radius: 20px;
+  	width: 424px;
+  	height: 283px;
+  	object-fit: cover;
 }
-.sciente {
+.rectangle-div {
   	position: absolute;
-  	top: 54px;
-  	left: 1264px;
-  	font-size: 40px;
-  	font-family: Coolvetica;
+  	top: 132px;
+  	left: 53px;
+  	border-radius: 20px;
+  	background-color: #223079;
+  	width: 718px;
+  	height: 581px;
+}
+.image-2-icon {
+  	position: absolute;
+  	top: 437px;
+  	left: 801px;
+  	border-radius: 20px;
+  	width: 425px;
+  	height: 276px;
+  	object-fit: cover;
+}
+.nunca-andou-de-container {
+  	position: absolute;
+  	top: 173px;
+  	left: 111px;
+  	font-weight: 500;
+  	color: #fff;
+  	text-align: left;
   	display: inline-block;
-  	width: 153px;
-  	height: 60px;
+  	width: 601px;
+  	height: 499px;
+  	font-size: 58px;
+}
+.blank-line {
+  	font-size: 32px;
+}
+.temos-a-sua {
+  	font-size: 30px;
+}
+.comear-agora {
+  	position: absolute;
+  	top: 736px;
+  	left: 13px;
+  	font-size: 48px;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 511.8px;
+  	height: 72px;
+}
+.arrow-right-icon {
+  	position: absolute;
+  	top: 748.34px;
+  	left: 460px;
+  	width: 47px;
+  	height: 48px;
 }
 

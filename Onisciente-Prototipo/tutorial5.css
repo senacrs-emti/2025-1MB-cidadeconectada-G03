@@ -1,582 +1,156 @@
 .tutorial5 {
   	width: 100%;
-  	height: 1024px;
+  	height: 832px;
   	position: relative;
   	background-color: #f0f0f0;
   	overflow: hidden;
   	text-align: center;
   	font-size: 24px;
-  	color: #000;
-  	font-family: Coolvetica;
+  	color: #fff;
+  	font-family: Inter;
+}
+.group-61-1 {
+  	position: absolute;
+  	top: 100px;
+  	left: 0px;
+  	width: 1280px;
+  	height: 733px;
+  	object-fit: cover;
+}
+.group-62-1 {
+  	position: absolute;
+  	top: 135px;
+  	left: 61px;
+  	width: 580px;
+  	height: 697px;
+  	object-fit: cover;
 }
 .tutorial5-child {
   	position: absolute;
   	top: 0px;
   	left: 0px;
   	background-color: #fff;
-  	width: 1440px;
-  	height: 113px;
-  	flex-shrink: 0;
+  	width: 1280px;
+  	height: 100px;
 }
 .tutorial5-item {
   	position: absolute;
-  	top: 35px;
-  	left: 289px;
+  	top: 31px;
+  	left: 41px;
   	background-color: #fff;
-  	width: 190px;
-  	height: 46px;
-  	flex-shrink: 0;
-}
-.sobre-o-site {
-  	position: absolute;
-  	top: 43px;
-  	left: 330px;
-  	font-weight: 500;
-  	font-family: Inter;
-  	display: inline-block;
-  	width: 137px;
-  	height: 29px;
-  	flex-shrink: 0;
-}
-.chevron-right-icon {
-  	position: absolute;
-  	top: 46px;
-  	left: 296px;
-  	width: 24px;
-  	height: 24px;
-  	flex-shrink: 0;
+  	width: 231px;
+  	height: 41px;
 }
 .tutorial5-inner {
   	position: absolute;
-  	top: 35px;
-  	left: 43px;
+  	top: 31px;
+  	left: 287px;
   	background-color: #fff;
-  	width: 246px;
-  	height: 46px;
-  	flex-shrink: 0;
+  	width: 178px;
+  	height: 41px;
+}
+.sobre-o-site {
+  	position: absolute;
+  	top: 37px;
+  	left: 310px;
+  	font-weight: 500;
+  	color: #000;
+  	display: inline-block;
+  	width: 148.4px;
+  	height: 25.7px;
 }
 .traar-uma-rota {
   	position: absolute;
-  	top: 42px;
-  	left: 76px;
+  	top: 37.43px;
+  	left: 52.21px;
   	font-weight: 500;
-  	font-family: Inter;
+  	color: #000;
   	display: inline-block;
-  	width: 203px;
-  	height: 29px;
-  	flex-shrink: 0;
+  	width: 219.9px;
+  	height: 25.7px;
 }
 .vector-icon {
   	position: absolute;
-  	height: 1.17%;
-  	width: 0.42%;
-  	top: 4.98%;
-  	right: 95.42%;
-  	bottom: 93.85%;
-  	left: 4.17%;
+  	height: 1.56%;
+  	width: 0.55%;
+  	top: 5.29%;
+  	right: 95.31%;
+  	bottom: 93.15%;
+  	left: 4.14%;
   	max-width: 100%;
   	overflow: hidden;
   	max-height: 100%;
-  	flex-shrink: 0;
+}
+.vector-icon2 {
+  	position: absolute;
+  	height: 1.56%;
+  	width: 0.55%;
+  	top: 5.29%;
+  	right: 76.09%;
+  	bottom: 93.15%;
+  	left: 23.36%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.group-53-1 {
+  	position: absolute;
+  	top: 11px;
+  	left: 1064px;
+  	width: 199px;
+  	height: 78px;
+  	object-fit: cover;
 }
 .rectangle-div {
   	position: absolute;
-  	top: 794px;
-  	left: 0px;
-  	background-color: #d9d9d9;
-  	width: 1440px;
-  	height: 177px;
-  	flex-shrink: 0;
-}
-.tutorial5-child2 {
-  	position: absolute;
-  	top: 1027px;
-  	left: 0px;
-  	background-color: #5f5f5f;
-  	width: 1440px;
-  	height: 56px;
-  	flex-shrink: 0;
-}
-.tutorial5-child3 {
-  	position: absolute;
-  	top: 113px;
-  	left: 0px;
-  	background-color: #add2ee;
-  	width: 1440px;
-  	height: 680px;
-  	flex-shrink: 0;
-}
-.ellipse-div {
-  	position: absolute;
-  	top: 134px;
-  	left: 715px;
-  	border-radius: 50%;
-  	background-color: #fbff00;
-  	width: 300px;
-  	height: 300px;
-  	flex-shrink: 0;
-}
-.tutorial5-child4 {
-  	position: absolute;
-  	top: 368px;
-  	left: 903px;
-  	border-radius: 50%;
-  	background-color: #fff;
-  	width: 100px;
-  	height: 100px;
-  	flex-shrink: 0;
-}
-.tutorial5-child5 {
-  	position: absolute;
-  	top: 326px;
-  	left: 954px;
-  	border-radius: 50%;
-  	background-color: #fff;
-  	width: 100px;
-  	height: 100px;
-  	flex-shrink: 0;
-}
-.tutorial5-child6 {
-  	position: absolute;
-  	top: 350px;
-  	left: 1010px;
-  	border-radius: 50%;
-  	background-color: #fff;
-  	width: 100px;
-  	height: 100px;
-  	flex-shrink: 0;
-}
-.tutorial5-child7 {
-  	position: absolute;
-  	top: 368px;
-  	left: 1065px;
-  	border-radius: 50%;
-  	background-color: #fff;
-  	width: 100px;
-  	height: 100px;
-  	flex-shrink: 0;
-}
-.tutorial5-child8 {
-  	position: absolute;
-  	top: 395px;
-  	left: 954px;
-  	background-color: #fff;
-  	width: 166px;
-  	height: 73px;
-  	flex-shrink: 0;
-}
-.tutorial5-child9 {
-  	position: absolute;
-  	top: 198px;
-  	left: 1276px;
-  	border-radius: 50%;
-  	background-color: #fff;
-  	width: 100px;
-  	height: 100px;
-  	flex-shrink: 0;
-}
-.tutorial5-child10 {
-  	position: absolute;
-  	top: 156px;
-  	left: 1327px;
-  	border-radius: 50%;
-  	background-color: #fff;
-  	width: 100px;
-  	height: 100px;
-  	flex-shrink: 0;
-}
-.tutorial5-child11 {
-  	position: absolute;
-  	top: 180px;
-  	left: 1383px;
-  	border-radius: 50%;
-  	background-color: #fff;
-  	width: 100px;
-  	height: 100px;
-  	flex-shrink: 0;
-}
-.tutorial5-child12 {
-  	position: absolute;
-  	top: 198px;
-  	left: 1438px;
-  	border-radius: 50%;
-  	background-color: #fff;
-  	width: 100px;
-  	height: 100px;
-  	flex-shrink: 0;
-}
-.tutorial5-child13 {
-  	position: absolute;
-  	top: 225px;
-  	left: 1327px;
-  	background-color: #fff;
-  	width: 166px;
-  	height: 73px;
-  	flex-shrink: 0;
-}
-.tutorial5-child14 {
-  	position: absolute;
-  	top: 394px;
-  	left: 1025px;
-  	background-color: rgba(236, 236, 236, 0.64);
-  	width: 713px;
-  	height: 328px;
-  	flex-shrink: 0;
-}
-.line-div {
-  	position: absolute;
-  	top: 265.5px;
-  	left: 1021.5px;
-  	border-right: 27px solid #000;
-  	box-sizing: border-box;
-  	width: 27px;
-  	height: 617px;
-  	flex-shrink: 0;
-}
-.tutorial5-child15 {
-  	position: absolute;
-  	top: 209px;
-  	left: 927px;
-  	background-color: #000;
-  	width: 828px;
-  	height: 125px;
-  	flex-shrink: 0;
-}
-.tutorial5-child16 {
-  	position: absolute;
-  	top: 333.64px;
-  	left: 926.57px;
-  	background-color: #000;
-  	width: 178.1px;
-  	height: 35.3px;
-  	transform:  rotate(-150deg);
-  	transform-origin: 0 0;
-  	flex-shrink: 0;
-}
-.tutorial5-child17 {
-  	position: absolute;
-  	top: 229px;
-  	left: 832px;
-  	background-color: #000;
-  	width: 172px;
-  	height: 41px;
-  	flex-shrink: 0;
-}
-.tutorial5-child18 {
-  	position: absolute;
-  	top: 258px;
-  	left: 885px;
-  	background-color: #000;
-  	width: 172px;
-  	height: 41px;
-  	flex-shrink: 0;
-}
-.tutorial5-child19 {
-  	position: absolute;
-  	top: 766px;
-  	left: 1015px;
-  	background-color: #000;
-  	width: 633px;
-  	height: 91px;
-  	flex-shrink: 0;
-}
-.tutorial5-child20 {
-  	position: absolute;
-  	top: 816.96px;
-  	left: 889px;
-  	background-color: #000;
-  	width: 137.1px;
-  	height: 23px;
-  	transform:  rotate(-22deg);
-  	transform-origin: 0 0;
-  	flex-shrink: 0;
-}
-.tutorial5-child21 {
-  	position: absolute;
-  	top: 886.02px;
-  	left: 881.55px;
-  	background-color: #000;
-  	width: 154.9px;
-  	height: 23px;
-  	transform:  rotate(-22deg);
-  	transform-origin: 0 0;
-  	flex-shrink: 0;
-}
-.tutorial5-child22 {
-  	position: absolute;
-  	top: 820px;
-  	left: 887px;
-  	background-color: #000;
-  	width: 44px;
-  	height: 60px;
-  	flex-shrink: 0;
-}
-.tutorial5-child23 {
-  	position: absolute;
-  	top: 809px;
-  	left: 931px;
-  	background-color: #000;
-  	width: 44px;
-  	height: 60px;
-  	flex-shrink: 0;
-}
-.tutorial5-child24 {
-  	position: absolute;
-  	top: 794px;
-  	left: 971px;
-  	background-color: #000;
-  	width: 44px;
-  	height: 60px;
-  	flex-shrink: 0;
-}
-.tutorial5-child25 {
-  	position: absolute;
-  	top: 782px;
-  	left: 997px;
-  	background-color: #000;
-  	width: 44px;
-  	height: 60px;
-  	flex-shrink: 0;
-}
-.tutorial5-child26 {
-  	position: absolute;
-  	top: 817.38px;
-  	left: 1630.45px;
-  	background-color: #000;
-  	width: 137.1px;
-  	height: 23px;
-  	transform:  rotate(-22deg);
-  	transform-origin: 0 0;
-  	flex-shrink: 0;
-}
-.tutorial5-child27 {
-  	position: absolute;
-  	top: 886.45px;
-  	left: 1623px;
-  	background-color: #000;
-  	width: 154.9px;
-  	height: 23px;
-  	transform:  rotate(-22deg);
-  	transform-origin: 0 0;
-  	flex-shrink: 0;
-}
-.tutorial5-child28 {
-  	position: absolute;
-  	top: 820.42px;
-  	left: 1628.45px;
-  	background-color: #000;
-  	width: 44px;
-  	height: 60px;
-  	flex-shrink: 0;
-}
-.tutorial5-child29 {
-  	position: absolute;
-  	top: 809.42px;
-  	left: 1672.45px;
-  	background-color: #000;
-  	width: 44px;
-  	height: 60px;
-  	flex-shrink: 0;
-}
-.tutorial5-child30 {
-  	position: absolute;
-  	top: 794.42px;
-  	left: 1712.45px;
-  	background-color: #000;
-  	width: 44px;
-  	height: 60px;
-  	flex-shrink: 0;
-}
-.tutorial5-child31 {
-  	position: absolute;
-  	top: 782.42px;
-  	left: 1738.45px;
-  	background-color: #000;
-  	width: 44px;
-  	height: 60px;
-  	flex-shrink: 0;
-}
-.tutorial5-child32 {
-  	position: absolute;
-  	top: 270.47px;
-  	left: 889.99px;
-  	border-right: 27px solid #000;
-  	box-sizing: border-box;
-  	width: 27px;
-  	height: 670.1px;
-  	flex-shrink: 0;
-}
-.tutorial5-child33 {
-  	position: absolute;
-  	top: 270.5px;
-  	left: 1634.5px;
-  	border-right: 27px solid #000;
-  	box-sizing: border-box;
-  	width: 27px;
-  	height: 670.1px;
-  	flex-shrink: 0;
-}
-.tutorial5-child34 {
-  	position: absolute;
-  	top: 209px;
-  	left: 772px;
-  	background-color: #000;
-  	width: 226px;
-  	height: 36px;
-  	flex-shrink: 0;
-}
-.tutorial5-child35 {
-  	position: absolute;
-  	top: 132px;
-  	left: 33px;
-  	border-radius: 20px;
-  	background-color: #4c53b4;
-  	width: 732px;
-  	height: 860px;
-  	flex-shrink: 0;
-}
-.tutorial5-child36 {
-  	position: absolute;
-  	top: 168px;
-  	left: 57px;
+  	top: 158px;
+  	left: 85px;
   	border-radius: 20px;
   	background-color: #223079;
-  	width: 683px;
-  	height: 611px;
-  	flex-shrink: 0;
+  	width: 531px;
+  	height: 524px;
 }
 .passo-descida {
   	position: absolute;
-  	top: 197.86px;
-  	left: 75.82px;
+  	top: 217px;
+  	left: 144px;
   	font-size: 50px;
-  	color: #fff;
+  	font-family: Coolvetica;
   	display: inline-block;
-  	width: 649.1px;
-  	height: 130.3px;
-  	flex-shrink: 0;
+  	width: 413px;
+  	height: 83px;
 }
 .chegando-perto-da {
   	position: absolute;
-  	top: 342.11px;
-  	left: 99.33px;
-  	font-size: 32px;
-  	color: #fff;
+  	top: 330px;
+  	left: 118px;
+  	font-family: Coolvetica;
   	display: flex;
   	align-items: center;
   	justify-content: center;
-  	width: 609.6px;
-  	height: 342.9px;
-  	flex-shrink: 0;
+  	width: 466px;
+  	height: 262px;
 }
-.tutorial5-child37 {
+.tutorial5-child2 {
   	position: absolute;
-  	top: 812px;
-  	left: 149px;
+  	top: 703px;
+  	left: 190px;
   	box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.4);
   	border-radius: 20px;
   	background-color: #6375cf;
   	border: 3px solid #fff;
   	box-sizing: border-box;
-  	width: 500.9px;
-  	height: 114.6px;
-  	flex-shrink: 0;
+  	width: 319px;
+  	height: 73px;
 }
 .finalizar {
   	position: absolute;
-  	top: 837.97px;
-  	left: 175.26px;
-  	font-size: 58px;
+  	top: 712px;
+  	left: 208px;
+  	font-size: 48px;
   	font-weight: 600;
-  	font-family: Inter;
-  	color: #fff;
   	display: inline-block;
-  	width: 438.1px;
-  	height: 62.7px;
-  	flex-shrink: 0;
-}
-.tutorial5-child38 {
-  	position: absolute;
-  	top: 992px;
-  	left: 343px;
-  	background-color: #9d9d9d;
-  	width: 102px;
-  	height: 77px;
-  	flex-shrink: 0;
-}
-.tutorial5-child39 {
-  	position: absolute;
-  	top: 992px;
-  	left: 422px;
-  	background-color: #7f7f7f;
-  	width: 19px;
-  	height: 35px;
-  	flex-shrink: 0;
-}
-.tutorial5-child40 {
-  	position: absolute;
-  	top: 24.53px;
-  	left: 1321.11px;
-  	background-color: #00c257;
-  	width: 58.1px;
-  	height: 7.3px;
-  	flex-shrink: 0;
-}
-.tutorial5-child41 {
-  	position: absolute;
-  	top: 31.84px;
-  	left: 1321.11px;
-  	background-color: #ff0000;
-  	width: 67.1px;
-  	height: 7.3px;
-  	flex-shrink: 0;
-}
-.tutorial5-child42 {
-  	position: absolute;
-  	top: 39.16px;
-  	left: 1321.11px;
-  	background-color: #fff700;
-  	width: 76.2px;
-  	height: 7.3px;
-  	flex-shrink: 0;
-}
-.tutorial5-child43 {
-  	position: absolute;
-  	top: 46.48px;
-  	left: 1321.11px;
-  	background-color: #0053cf;
-  	width: 84.8px;
-  	height: 7.3px;
-  	flex-shrink: 0;
-}
-.image-removebg-preview-1-icon {
-  	position: absolute;
-  	top: 0px;
-  	left: 1223px;
-  	width: 111px;
-  	height: 74.9px;
-  	object-fit: cover;
-  	flex-shrink: 0;
-}
-.oni {
-  	position: absolute;
-  	top: 54px;
-  	left: 1140px;
-  	font-size: 40px;
-  	color: #ea0000;
-  	display: inline-block;
-  	width: 227px;
-  	height: 60px;
-  	flex-shrink: 0;
-}
-.sciente {
-  	position: absolute;
-  	top: 54px;
-  	left: 1264px;
-  	font-size: 40px;
-  	display: inline-block;
-  	width: 153px;
-  	height: 60px;
-  	flex-shrink: 0;
+  	width: 279px;
+  	height: 40px;
 }
 
