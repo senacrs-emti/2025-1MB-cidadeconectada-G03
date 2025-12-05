@@ -25,7 +25,7 @@ a:visited{
   	top: 226px;
   	left: 183px;
   	border-radius: 20px;
-  	background-color: #223079;
+  	background-color: #B5C1FF;
   	width: 914px;
   	height: 552px;
 }
@@ -44,7 +44,7 @@ a:visited{
   	position: absolute;
   	top: 494.5px;
   	left: 229.5px;
-  	border-top: 5px solid #2e42a5;
+  	border-top: 5px solid #657DFF;
   	box-sizing: border-box;
   	width: 821px;
   	height: 5px;
@@ -53,7 +53,7 @@ a:visited{
   	position: absolute;
   	top: 573.5px;
   	left: 229.5px;
-  	border-top: 5px solid #2e42a5;
+  	border-top: 5px solid #657DFF;
   	box-sizing: border-box;
   	width: 821px;
   	height: 5px;
@@ -62,7 +62,7 @@ a:visited{
   	position: absolute;
   	top: 652.5px;
   	left: 229.5px;
-  	border-top: 5px solid #2e42a5;
+  	border-top: 5px solid #657DFF;
   	box-sizing: border-box;
   	width: 821px;
   	height: 5px;
@@ -71,7 +71,7 @@ a:visited{
   	position: absolute;
   	top: 731.5px;
   	left: 229.5px;
-  	border-top: 5px solid #2e42a5;
+  	border-top: 5px solid #657DFF;
   	box-sizing: border-box;
   	width: 821px;
   	height: 5px;
@@ -92,7 +92,7 @@ a:visited{
   	left: 323px;
   	font-size: 20px;
   	display: inline-block;
-  	color: #b4b4b4;
+  	color: #000000;
   	width: 641px;
   	height: 21px;
 }
@@ -127,7 +127,7 @@ a:visited{
   	left: 323px;
   	font-size: 20px;
   	display: inline-block;
-  	color: #b4b4b4;
+  	color: #000000;
   	width: 641px;
   	height: 20px;
 }
@@ -138,6 +138,7 @@ a:visited{
   	display: inline-block;
   	width: 276px;
   	height: 47px;
+	color: black;
 }
 .clock-icon2 {
   	position: absolute;
@@ -162,7 +163,7 @@ a:visited{
   	left: 323px;
   	font-size: 20px;
   	display: inline-block;
-  	color: #b4b4b4;
+  	color: #000000;
   	width: 641px;
   	height: 20px;
 }
@@ -173,6 +174,7 @@ a:visited{
   	display: inline-block;
   	width: 276px;
   	height: 47px;
+	color: black;
 }
 .clock-icon3 {
   	position: absolute;
@@ -190,13 +192,14 @@ a:visited{
   	text-align: center;
   	width: 148px;
   	height: 68px;
+	color: black;
 }
 .chevron-right-icon {
   	position: absolute;
-  	top: 457px;
+  	top: 464px;
   	left: 391px;
-  	width: 24px;
-  	height: 22px;
+  	width: 10px;
+  	height: 12px;
 }
 .ellipse-div {
   	position: absolute;
