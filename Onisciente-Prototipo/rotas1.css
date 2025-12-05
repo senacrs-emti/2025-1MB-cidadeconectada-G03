@@ -1,6 +1,16 @@
 *{
 	margin: 0;
 }
+@font-face{
+	font-family: Coolvetica;
+	src: url(fonts/Coolvetica-Regular.woff);
+}
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
 a:link{
 	color: black;
 	text-decoration: none;
@@ -8,12 +18,6 @@ a:link{
 a:visited{
 	color: black;
 	text-decoration: none;
-}
-.inter-font {
-  font-family: "Inter", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 100;
-  font-style: normal;
 }
 .rotas1 {
   	width: 100%;
@@ -31,7 +35,7 @@ a:visited{
   	top: 226px;
   	left: 183px;
   	border-radius: 20px;
-  	background-color: #B5C1FF;
+  	background-color: #B9B9B9;
   	width: 914px;
   	height: 552px;
 }
@@ -50,7 +54,7 @@ a:visited{
   	position: absolute;
   	top: 494.5px;
   	left: 229.5px;
-  	border-top: 5px solid #657DFF;
+  	border-top: 5px solid #F0F0F0;
   	box-sizing: border-box;
   	width: 821px;
   	height: 5px;
@@ -59,7 +63,7 @@ a:visited{
   	position: absolute;
   	top: 573.5px;
   	left: 229.5px;
-  	border-top: 5px solid #657DFF;
+  	border-top: 5px solid #F0F0F0;
   	box-sizing: border-box;
   	width: 821px;
   	height: 5px;
@@ -68,7 +72,7 @@ a:visited{
   	position: absolute;
   	top: 652.5px;
   	left: 229.5px;
-  	border-top: 5px solid #657DFF;
+  	border-top: 5px solid #F0F0F0;
   	box-sizing: border-box;
   	width: 821px;
   	height: 5px;
@@ -77,7 +81,7 @@ a:visited{
   	position: absolute;
   	top: 731.5px;
   	left: 229.5px;
-  	border-top: 5px solid #657DFF;
+  	border-top: 5px solid #F0F0F0;
   	box-sizing: border-box;
   	width: 821px;
   	height: 5px;
@@ -91,6 +95,7 @@ a:visited{
   	text-align: center;
   	width: 64px;
   	height: 20px;
+	color: #676767;
 }
 .av-quara-451 {
   	position: absolute;
@@ -101,6 +106,7 @@ a:visited{
   	color: #000000;
   	width: 641px;
   	height: 21px;
+	font-family: coolvetica;
 }
 .av-quara-4512 {
   	position: absolute;
@@ -109,6 +115,7 @@ a:visited{
   	display: inline-block;
   	width: 276px;
   	height: 47px;
+	color: #4F4F4F;
 }
 .clock-icon {
   	position: absolute;
@@ -126,6 +133,7 @@ a:visited{
   	text-align: center;
   	width: 64px;
   	height: 21px;
+	color: #676767;
 }
 .shopping-total- {
   	position: absolute;
@@ -144,7 +152,8 @@ a:visited{
   	display: inline-block;
   	width: 276px;
   	height: 47px;
-	color: black;
+	color: #000000;
+	font-family: Inter;
 }
 .clock-icon2 {
   	position: absolute;
@@ -162,6 +171,7 @@ a:visited{
   	text-align: center;
   	width: 64px;
   	height: 20px;
+	color: #676767;
 }
 .shopping-total-2 {
   	position: absolute;

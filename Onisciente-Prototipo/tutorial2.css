@@ -9,6 +9,10 @@ a:visited{
 	color: black;
 	text-decoration: none;
 }
+@font-face{
+	font-family: Coolvetica;
+	src: url(fonts/Coolvetica-Regular.woff);
+}
 .inter-font {
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
@@ -80,7 +84,7 @@ a:visited{
   	top: 5.29%;
   	right: 95.31%;
   	bottom: 93.15%;
-  	left: 4.14%;
+  	left: 300px;
   	max-width: 100%;
   	overflow: hidden;
   	max-height: 100%;
@@ -93,7 +97,7 @@ a:visited{
   	top: 5.29%;
   	right: 76.09%;
   	bottom: 93.15%;
-  	left: 23.36%;
+  	left: 42px;
   	max-width: 100%;
   	overflow: hidden;
   	max-height: 100%;
@@ -136,7 +140,7 @@ a:visited{
 .group-58-2 {
   	position: absolute;
   	top: 137px;
-  	left: 945px;
+  	left: 870px;
   	width: 409px;
   	height: 872px;
   	object-fit: cover;
@@ -165,7 +169,7 @@ a:visited{
 .passo-na-parada {
   	position: absolute;
   	top: 29px;
-  	left: -40px;
+  	left: 10px;
   	display: inline-block;
   	width: 690px;
   	height: 103px;
@@ -173,7 +177,7 @@ a:visited{
 .j-na-parada {
   	position: absolute;
   	top: 107px;
-  	left: -5px;
+  	left: 45px;
   	font-size: 32px;
   	display: inline-block;
   	width: 601px;
@@ -182,7 +186,7 @@ a:visited{
 .group-item {
   	position: absolute;
   	top: 328px;
-  	left: 70px;
+  	left: 110px;
   	box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.25);
   	border-radius: 20px;
   	background-color: #6375cf;
@@ -194,7 +198,7 @@ a:visited{
 .prximo-passo {
   	position: absolute;
   	top: 353px;
-  	left: 97px;
+  	left: 135px;
   	font-size: 52px;
   	font-weight: 600;
   	font-family: Inter;
@@ -205,7 +209,7 @@ a:visited{
 .voltar {
   	position: absolute;
   	top: 445px;
-  	left: 250px;
+  	left: 290px;
   	font-size: 20px;
   	font-weight: 600;
   	font-family: Inter;
