@@ -134,6 +134,12 @@ a:visited{
   	width: 546px;
   	height: 204px;
 }
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
 .tutorial1-child2 {
   	position: absolute;
   	top: 625px;
