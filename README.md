@@ -21,8 +21,7 @@ Ferramentas
 
 Prints do sistema
 
-
-Estrutura de pastas
+<img width="537" height="335" alt="image" src="https://github.com/user-attachments/assets/6ccc3d97-2e46-4824-ab38-0aa6061ab617" />
 
 
 Links importantes
