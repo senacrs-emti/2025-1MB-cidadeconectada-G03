@@ -27,6 +27,7 @@ Prints do sistema
 Links importantes
 
 Protótipo do Figma: https://www.figma.com/design/ROJMVZbNULNURGtAtvDZCQ/Onisciente--Site-?node-id=0-1&t=ok1weOG7U3Hy3LZU-1
+Vercel: http://onisciente-cidadeconectada.vercel.app/
 
 
 O que aprendemos com esse projeto
