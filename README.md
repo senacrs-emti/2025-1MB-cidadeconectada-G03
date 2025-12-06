@@ -2,9 +2,9 @@
 
 Equipe
 
-Bruna Selau Wolmer (Design de Interface, Desenvolvimento Back-End) - 
+Bruna Selau Wolmer (Design de Interface, Desenvolvimento Front-End) - 
 Isabela Vargas Apolonio (Design de Interface, Documentação/ReadME) - 
-Nicolas Arqueros Ludwig (Design de Interface, Desenvolvimento Back-End)
+Nicolas Arqueros Ludwig (Design de Interface, Desenvolvimento Front-End)
 
 Introdução
 
